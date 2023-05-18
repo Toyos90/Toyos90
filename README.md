@@ -1,9 +1,4 @@
 <h1 align="center">Hola 👋, soy Javier Toyos</h1>
-<h3 align="center">Iniciandome en la progrmacion, vivo en España, Asturias</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trofeo"><img src="https://github-perfil-trofeo.vercel.app/?username=toyos90" alt= "toyos90" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https:// img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 Actualmente estoy trabajando en **Pagina web responsiva**
 
